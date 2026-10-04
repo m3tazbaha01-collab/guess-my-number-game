@@ -37,7 +37,7 @@ Try to achieve the highest possible score.
 Use the Again! button to restart the game.
 💻 Run Locally
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/guess-my-number.git
+git clone https://github.com/m3tazbaha01-collab/guess-my-number.git
 2. Navigate to the project directory
 cd guess-my-number
 3. Open the project
@@ -79,12 +79,9 @@ Persistent high scores using localStorage
 Accessibility improvements
 Additional game modes
 👨‍💻 Author
-
-YOUR NAME
+moutaz
 
 Frontend Developer
 
-GitHub: @YOUR-USERNAME
-📄 License
 
 This project is available for educational and portfolio purposes.
